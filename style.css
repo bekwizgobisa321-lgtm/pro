@@ -87,7 +87,7 @@
          transform: scale(1.1);
       }
       .btn:hover{
-      background-color:coral;
+      background-color:rgb(232, 77, 20);
       color: #fff;
       }
     
