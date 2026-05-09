@@ -100,3 +100,9 @@
         padding: 96px 0;
         background-color: #f7f7f7;
       }
+
+      .nav{
+        text-decoration: none;
+        color: rgb(231, 79, 24);
+        
+      }
