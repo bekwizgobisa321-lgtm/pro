@@ -101,6 +101,7 @@
         background-color: #f7f7f7;
       }
 
+<<<<<<< HEAD
       .nav:link,
       .nav:visited{
         text-decoration: none;
@@ -114,3 +115,14 @@
          transform: scale(1.1);
       }
        
+=======
+      .nav{
+        text-decoration: none;
+        color: #fff;
+       margin-left: 12px;
+       background-color:#e67e22;
+        padding: 9px;
+        font-size: 15px;
+
+      }
+>>>>>>> 557b72bf0e4d83ac9787434ce654cb08bc2e7164
