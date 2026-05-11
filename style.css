@@ -99,7 +99,7 @@
       section {
         padding: 96px 0;
         background-color: #f7f7f7;
-      
+      }
       .nav:link,
       .nav:visited{
         text-decoration: none;
@@ -123,4 +123,3 @@
         font-size: 15px;
 
       }
-
