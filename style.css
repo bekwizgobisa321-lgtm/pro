@@ -100,3 +100,17 @@
         padding: 96px 0;
         background-color: #f7f7f7;
       }
+
+      .nav:link,
+      .nav:visited{
+        text-decoration: none;
+        color: #fff;
+        margin-left: 12px;
+        background-color:#e67e22;
+        padding: 9px;
+        font-size: 15px;
+        border-radius: 8px;
+        transition: 0.4s ease;
+         transform: scale(1.1);
+      }
+       
