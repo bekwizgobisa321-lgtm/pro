@@ -112,14 +112,7 @@
         transition: 0.4s ease;
          transform: scale(1.1);
       }
-       
-
-      .nav{
-        text-decoration: none;
+      .nav:hover{
+        background-color:#653206;
         color: #fff;
-       margin-left: 12px;
-       background-color:#e67e22;
-        padding: 9px;
-        font-size: 15px;
-
       }
