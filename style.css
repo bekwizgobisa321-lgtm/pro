@@ -7,7 +7,7 @@
 
       html {
         font-family: "Rubik", sans-serif;
-        color: #434141;
+        color: #444;
       }
 
       .container {
@@ -40,7 +40,7 @@
       }
 
       .header-container {
-        width: 1201px;
+        width: 1200px;
         position: absolute;
 
         /* In relation to PARENT size */
