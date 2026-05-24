@@ -19,7 +19,7 @@
         /* background-color: orangered; */
         height: 100vh;
         position: relative;
-
+/* the background image */
         background-image: linear-gradient(
             rgba(34, 34, 34, 0.6),
             rgba(34, 34, 34, 0.6)
@@ -113,6 +113,8 @@
         background-color:#864308;
         color: #fff;
       }
+
+      /* --logo-- */
       .logo{
         width: 150px;
       height: 54px;
