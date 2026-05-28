@@ -110,7 +110,7 @@
          transform: scale(1.1);
       }
       .nav:hover{
-        background-color:#864308;
+        background-color:rgb(231, 79, 24);
         color: #fff;
       }
 
