@@ -21,6 +21,23 @@ fastfeasts-landing-main/
 ├── hero.jpg
 └── logox.png
 ```
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Getting Started
+
+Clone the repo and open `index.html` in your browser — no installs needed.
+
+```bash
+git clone https://github.com/your-username/fastfeasts-landing.git
+cd fastfeasts-landing
+open index.html
+```
+
+## Planned
 
 
 
